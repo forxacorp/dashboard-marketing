@@ -18,5 +18,5 @@
 window.FORXA_CONFIG = {
   SUPABASE_URL: "https://igeckdsakwuhnajyeagf.supabase.co",
   SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlnZWNrZHNha3d1aG5hanllYWdmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODgzNTc3ODQsImV4cCI6MjEwMzkzMzc4NH0.xxh_X44FQT4nSmjObx5dwnsIeQ4mFN0n0QAQ3LTWRvc",
-  ADMIN_EMAIL: "panel@forxainmobiliaria.com"
+  ADMIN_EMAIL: "forxacorp@gmail.com"
 };
